@@ -17,6 +17,7 @@ I'm giving you a sample dataset because the data is private.
  - https://github.com/msazure1981/On-Premise-Data-Engineering-Project-1/blob/main/large_sample_logistics_data.csv
 ## Data Model Diagram
 I'm giving you a sample data model due to data privacy.
-![Data Model](Logistics Data Model.png)
+![Data Model](Logistics-Data-Model.jpg)
+
 
    
